@@ -1,0 +1,11 @@
+{"pop": ["Bruno Mars", "The Weeknd", "Taylor Swift", "Billie Ellish", "Ariana Grande", "Lady Gaga", "Rihanna", "Dua Lipa", "Beyoncé", "Olivia Rodrigo"],
+"rap": ["Drake", "Travis Scott", "Kanye West", "21 Savage", "Future", "Metro Boomin", "Kendrick Lamar", "Childish Gambino", "Playboi Carti", "Mac Miller"],
+"rock": ["Guns N' Roses", "Red Hot Chili Peppers", "Billy Joel", "Foo Fighters", "AC/DC", "Radiohead", "Queen", "Bon Jovi", "Fleetwood Mac", "Radio Head"],
+"hip hop": ["Future", "Lil Wayne", "21 Savage", "JAY-Z", "Kanye West", "Tyler The Creator", "J-Cole", "Nicki Minaj", "A$AP Rocky", "2Pac"], 
+"dance pop": ["Bruno Mars", "Dua Lipa", "Lady Gaga", "Charli XCX", "Britney Spears", "Pitbull", "Black Eyed Peas", "Pharrel Williams", "Destiny's Child"], 
+"pop rap":["Drake", "Eminem", "Post Malone", "Travis Scott", "Don Toliver", "Future", "Tyler The Creator", "Metro Boomin", "21 Savage", "Nicki Minaj"], 
+"pov: indie":["Laufey", "Hozier", "Noah Kahan", "Mitski", "TV Girl", "Lana Del Rey", "Dominic Fike", "Glass Animals", "Phoebe Bridgers", "Alex G"], 
+"art pop":["Lady Gaga", "Billie Eilish", "Lana Del Rey", "Charli XCX", "Lorde", "Grimes", "Fiona Apple", "AURORA", "Kate Bush", "Suki Waterhouse"], 
+"jazz":["Frank Sinatra", "Ella Fitzgerald", "Louis Armstrong", "Tony Bennet", "Nina Simone", "Peggy Lee", "Stan Getz", "Jamie Cullum", "Billie Holiday", "Count Basie"], 
+"r&b":["SZA", "Beyoncé", "Chris Brown", "Michael Jackson", "USHER", "Alicia Keys", "Miguel", "Brent Faiyaz", "Mary J. Blige", "H.E.R"], 
+"country":["Morgan Wallen", "Zach Bryan", "Luke Combs", "Dolly Parton", "Christ Stapleton", "Shania Twain", "Carrie Underwood", "Luke Bryan", "Tyler Childers", "Tim McGraw"]}
